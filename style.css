@@ -64,6 +64,10 @@ h1 {
   background-size: cover;
 }
 
+.social-links__header .user-photo {
+  margin-bottom: 24px;
+}
+
 .social-links__location {
   color: var(--Green);
   font-size: 14px;
